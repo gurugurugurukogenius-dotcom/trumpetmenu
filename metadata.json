@@ -1,0 +1,6 @@
+{
+  "name": "トランペット基礎練習記録",
+  "description": "トランペットの基礎練習メニューを時間ごとに組み立て、進捗、テンポ、改善メモを記録、グラフで確認できるダッシュボードです。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
